@@ -1,2 +1,2 @@
-# algorithmic-questions
+# Algorithmic-questions
 Famous computer science algorithmic questions
