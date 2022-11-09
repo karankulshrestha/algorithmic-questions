@@ -1,2 +1,2 @@
 # Must Practice Algorithmic-questions
-Famous computer science algorithmic questions
+Famous computer science algorithmic Questions
